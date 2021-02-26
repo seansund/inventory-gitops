@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: carlos-app-ci
+description: Chart to configure ArgoCD with the carlos-app-ci project and its applications
